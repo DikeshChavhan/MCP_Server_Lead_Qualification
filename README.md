@@ -10,8 +10,8 @@ This project demonstrates how conversational AI can be used to qualify leads, sc
 🧠 Project Screenshots & Explanation
 
 📸 Screenshot 1: MCP Server – Google Sheets Automation
-(<img width="1910" height="664" alt="mcp_server_workflow png" src="https://github.com/user-attachments/assets/0286d4d3-fb8a-4433-b580-beb7f538ae10" />
-)
+<img width="1910" height="664" alt="mcp_server_workflow png" src="https://github.com/user-attachments/assets/0286d4d3-fb8a-4433-b580-beb7f538ae10" />
+
 
 Explanation:
 This screenshot represents the MCP Server workflow, which is triggered after the site visit is confirmed.
@@ -27,9 +27,9 @@ Stores booking details reliably for future use
 This separates business logic and data storage, making the system scalable.
 ---
 📸 Screenshot 2: MCP Client – Lead Qualification Workflow
+<img width="1909" height="917" alt="mcp_client_workflow png" src="https://github.com/user-attachments/assets/8deaa43b-a173-4152-a7e4-f39ad95ec592" />
 
-(<img width="1909" height="917" alt="mcp_client_workflow png" src="https://github.com/user-attachments/assets/8deaa43b-a173-4152-a7e4-f39ad95ec592" />
-)
+
 Explanation:
 This screenshot shows the MCP Client workflow responsible for handling the chat-based lead qualification.
 
@@ -48,9 +48,9 @@ MCP Client Tool
 This workflow handles user interaction, AI reasoning, and decision-making.
 ---
 📸 Screenshot 3: Chat Conversation & Lead Qualification
+<img width="505" height="611" alt="chat_conversation png" src="https://github.com/user-attachments/assets/9065af07-ad00-44cb-b9de-29791edeafcd" />
 
-(<img width="505" height="611" alt="chat_conversation png" src="https://github.com/user-attachments/assets/9065af07-ad00-44cb-b9de-29791edeafcd" />
-)
+
 Explanation:
 This screenshot shows the live chat interaction between the user and the AI chatbot.
 The chatbot:
@@ -68,9 +68,9 @@ Confirms the site visit booking with date and time
 This is the lead qualification and booking stage of the project.
 ---
 📸 Screenshot 4: AI Agent Final Output
+<img width="1703" height="664" alt="ai_agent_output png" src="https://github.com/user-attachments/assets/7bb865b3-b12a-4fab-b87e-d2af201eb1c1" />
 
-(<img width="1703" height="664" alt="ai_agent_output png" src="https://github.com/user-attachments/assets/7bb865b3-b12a-4fab-b87e-d2af201eb1c1" />
-)
+
 Explanation:
 This screenshot displays the AI Agent execution result inside n8n.
 The AI Agent:
@@ -86,9 +86,9 @@ Confirms that the site visit has been successfully booked
 This ensures accurate and professional responses to the user.
 ---
 📸 Screenshot 5: Google Sheets – Stored Booking Details
+<img width="1919" height="672" alt="google_sheets_data png" src="https://github.com/user-attachments/assets/fd8e1f03-0da0-4850-85ad-77f188f2ebb4" />
 
-(<img width="1919" height="672" alt="google_sheets_data png" src="https://github.com/user-attachments/assets/fd8e1f03-0da0-4850-85ad-77f188f2ebb4" />
-)
+
 Explanation:
 This screenshot shows the Google Sheet where all site visit bookings are stored automatically.
 
